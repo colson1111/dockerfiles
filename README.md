@@ -17,11 +17,11 @@ View a list of all containers (both running and not running)
 
 Stops one or more running containers.
 
-### docker rm <container id>
+### docker rm \<container id\>
 
 Removes stopped container
 
-### docker rm <image id>
+### docker rm \<image id\>
 
 Removes image
 
